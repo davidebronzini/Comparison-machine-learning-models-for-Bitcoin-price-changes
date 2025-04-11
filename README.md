@@ -20,3 +20,4 @@ Daily close prices of ETH	BTC	XRP	LTC	XLM from 01/01/2016 to 09/30/2019
 
 ##LinkedIn link for see the presentation:
 
+www.linkedin.com/in/davide-bronzini-34a42528b
