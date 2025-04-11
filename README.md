@@ -1,1 +1,1 @@
-# Comparison-machine-learning-models-for-bBtcoin-price-changes
+# Comparison-machine-learning-models-for-Bitcoin-price-changes
